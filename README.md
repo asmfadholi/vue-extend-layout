@@ -1,6 +1,6 @@
 # my-route
 
-> A Vue.js project
+> Route with multiple layout
 
 ## Build Setup
 

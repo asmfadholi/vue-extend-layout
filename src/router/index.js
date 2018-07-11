@@ -39,6 +39,11 @@ const router = new VueRouter({
         layout: 'contact',
         announcer: 'Contact page'
       }
+    },
+    {
+      name: 'jTable',
+      path: '/table',
+      component: () => System.import(/*  webpackChunkName: "Contact" */ '@/components/jTable')
     }
   ]
 })

@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <header>
+    <!-- <header>
       <router-link to="/" title="Vue.js logo" aria-label="Go to home page">
         <img src="@/assets/logo.png" alt="Vue.js logo">
       </router-link>
@@ -17,7 +17,7 @@
         </ul>
       </nav>
     </header>
-
+ -->
     <div class="main" role="main">
       <router-view />
     </div>
@@ -43,23 +43,5 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-}
-
-h1, h2 {
-  font-weight: normal;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-
-a {
-  color: #227952;
 }
 </style>

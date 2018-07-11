@@ -4,8 +4,8 @@
       <router-link to="/" title="Vue.js logo" aria-label="Go to home page">
         <img src="@/assets/logo.png" alt="Vue.js logo">
       </router-link>
-      <h1 data-vel="header">{{ msg }}</h1>
-      <h2>Essential Links ayolahhh</h2>
+      <h1 data-vel="header">{{ msg }} sikatin</h1>
+      <h2>Essential Links bakarrrrrrr</h2>
       <nav>
         <ul>
           <li>

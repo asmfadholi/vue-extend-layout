@@ -5,7 +5,7 @@
         <img src="@/assets/logo.png" alt="Vue.js logo">
       </router-link>
       <h1 data-vel="header">{{ msg }}</h1>
-      <h2>Essential Links ayolahhh</h2>
+      <h2>Essential Links bakarrrrrrr</h2>
       <nav>
         <ul>
           <li>
